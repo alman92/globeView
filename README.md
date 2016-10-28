@@ -1,24 +1,7 @@
 # README
+We want to build an app that allows us to enter passport origin and see where/ what destinations we can travel without visas.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To be able to do that, here are the followings steps to build this excellent app:
+1.Design two model ERD;
+2. Create a new Rails App;
+3. Populate the data and create an API;
